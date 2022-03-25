@@ -1,2 +1,3 @@
 Q1. Write a program to check whether a number is prime or not ? 
-Q2. Check the occurences of all elements in array of number ? 
+Q2. Check the occurences of all elements in in array of number ? 
+Q3. add an element in between of an array without using new array or splice method ? 
