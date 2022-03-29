@@ -8,3 +8,15 @@ Q7. Javascript Hoisting?
 Q8. all the lifecycles fuckss!!! and all the hooks!! 
 Q9. Difference between es5 and es6
 Q10. semantic Elements
+Q11. let timeStamp = 1648186841; // // YYYY/MM/DD
+Q12. let array1 = [
+    {name:"nitish", pass:123},
+    {name:"Aarush", pass:687}
+]
+
+let array2 = [
+{name:"nitish", email:"nitish@gmail.com", key:1233123}
+    ,{name:"Aarush", email:"Aarush@gmail.com", key:"wewqe"}
+];
+
+//[{name:"nitish", email:"nitish@gmail.com", key:1233123, pass:123},{name:"Aarush", email:"Aarush@gmail.com", key:wewqe, pass:687}]
