@@ -5,7 +5,7 @@ Q4. Different type of component in React?
 Q5. How to Manage state in functional component ?
 Q6. What is error boundaries?
 Q7. Javascript Hoisting? 
-Q8. all the lifecycles fuckss!!! and all the hooks!! 
+Q8. all the lifecycles !!! and all the hooks!! 
 Q9. Difference between es5 and es6
 Q10. semantic Elements
 Q11. let timeStamp = 1648186841; // // YYYY/MM/DD
